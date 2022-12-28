@@ -2,32 +2,7 @@
 
 ## Description
 
-allows users to see my react portfolio
-
-## Table of Contents
-
-- [Installation Instructions](#installation-instructions)
-- [Usage](#usage)
-- [Contribution Guidelines](#contribution-guidelines)
-- [Testing Instructions](#testing-instructions)
-- [Questions](#questions)
-- [Licenses](#licenses)
-
-## Installation Instructions
-
-npm i
-
-## Usage
-
-n/a
-
-## Contribution Guidelines
-
-undefined
-
-## Testing Instructions
-
-N/a
+allows users to see my react portfolio and showcase some of my skills
 
 ## Questions
 
